@@ -1,5 +1,5 @@
 # colab-torrent-downloader
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sohrabhamza/colab-torrent-downloader/blob/main/SimpleTorrentDownloader.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sohrabhamza/colab-torrent-downloader/blob/main/SimpleTorrentDownloader.ipynb)
 A simple ibnyp to download [legal] torrent directly into your google drive.
 
 # Features
